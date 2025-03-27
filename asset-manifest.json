@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Adobe-clone/static/css/main.00c7c35d.css",
+    "main.js": "/Adobe-clone/static/js/main.5ed5ad8b.js",
+    "index.html": "/Adobe-clone/index.html",
+    "main.00c7c35d.css.map": "/Adobe-clone/static/css/main.00c7c35d.css.map",
+    "main.5ed5ad8b.js.map": "/Adobe-clone/static/js/main.5ed5ad8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00c7c35d.css",
+    "static/js/main.5ed5ad8b.js"
+  ]
+}
