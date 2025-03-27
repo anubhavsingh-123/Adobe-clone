@@ -1,0 +1,13 @@
+.cloud-apis {
+          padding: 1rem;
+        }
+        .banner-image {
+          margin: auto;
+          width: 80%;
+          max-height: 400px; /* Limits height */
+          height: auto; /* Keeps aspect ratio */
+          object-fit: cover;
+          display: block;
+        }
+        
+        
